@@ -15,3 +15,9 @@ console.log("JavaScript is running...")
 //5. incase you accidentally commit something you didn't want committed
 
 //2ND COMMIT
+
+//1. git checkout -b (name of new branch)
+//2. git checkout (name of new branch)
+//3. so you don't break the working version of a program while experimenting
+
+//3RD COMMIT
