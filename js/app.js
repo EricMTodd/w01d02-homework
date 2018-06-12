@@ -21,3 +21,9 @@ console.log("JavaScript is running...")
 //3. so you don't break the working version of a program while experimenting
 
 //3RD COMMIT
+
+//1. When you have code that is superiour to a working version you will merge, however, a pull request so that peers may review your work before adding it to a working version.
+//2. git push origin master
+
+//4TH COMMIT
+
