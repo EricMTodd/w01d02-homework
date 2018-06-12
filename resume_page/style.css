@@ -2,8 +2,17 @@ h1 {
 	text-align: center;
 	font-family: Arial;
 }
+h2 {
+	font-family: Arial;
+}
 h3 {
 	color: gold;
+}
+p {
+	font-family: Arial;
+}
+a {
+	padding: 0 6px;
 }
 img {
 	width: 100%;
@@ -11,4 +20,17 @@ img {
 }
 body {
 	padding: 0 32px 32px 32px;
+}
+.column {
+	float: left;
+	width: 33.33%;
+}
+
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+.topNav {
+	text-align: center;
 }
