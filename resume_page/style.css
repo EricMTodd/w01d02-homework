@@ -1,27 +1,50 @@
 h1 {
 	text-align: center;
-	font-family: Arial;
-}
-h2 {
-	font-family: Arial;
+	text-transform: uppercase;
 }
 h3 {
 	color: gold;
 }
-p {
-	font-family: Arial;
-}
 a {
 	padding: 0 6px;
+	text-decoration: none;
 }
 img {
 	width: 100%;
 	height: auto;
+	border: 1px solid black;
 }
 body {
 	padding: 0 32px 32px 32px;
+	font-family: Arial;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
 }
-.wutang {
+footer {
+	text-align: center;
+}
+#work {
+	text-align: center;
+	color: black;
+	text-transform: uppercase;
+}
+#infotitle {
+	text-align: center;
+	color: black;
+}
+#jessica {
+	border-radius: 50%;
+	height: 132px;
+	width: 132px;
+	border: 0 solid black;
+}
+.bio {
+	text-align: center;
+}
+.contactinfo {
+	float: right;
+}
+.giftofgab {
 	width: 560px;
 	display: block;
 	margin: 0 auto;
@@ -37,4 +60,7 @@ body {
 }
 .topNav {
 	text-align: center;
+	padding-bottom: 16px;
+	text-transform: uppercase;
+	text-decoration: none;
 }
